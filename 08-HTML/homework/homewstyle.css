@@ -1,0 +1,46 @@
+h1 {
+    color: white;    
+}
+h3{
+    color: yellow;    
+}
+h4{
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-family: arial;
+    color: yellow;
+}
+.divClass{
+    padding-bottom: 10px;
+}
+img {
+    width: 400px;
+    height: 280px;
+    border-radius: 5% 0% 5% 0%;
+    border: 2px solid #6093a7;
+}
+#ThirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(182, 228, 255);
+    padding: 50px;
+    border-radius: 5%;
+    border: 2px dotted #6093a7;
+}
+#spanId {
+    color: white;
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/712/204/original/cute-tacos-character-illustration-vector.jpg);
+    background-repeat:no-repeat;
+}
+html{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
